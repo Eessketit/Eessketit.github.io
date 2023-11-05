@@ -1,0 +1,33 @@
+h1 { 
+    color: #336699;  
+} 
+p { 
+    font-family: Arial, sans-serif; 
+    font-size: 16px; 
+    font-weight: bold; 
+    font-style: italic; 
+} 
+ 
+body { 
+body {
+    background-image: url('luffy.jpg'); 
+    background-size: cover; 
+    background-attachment: fixed; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    color: #fff; 
+}
+
+ 
+ul { 
+    text-align: center; 
+} 
+ 
+p, a { 
+    color: #0077b6; 
+} 
+ 
+img { 
+    background-color: #f5f5f5;  
+    padding: 10px;  
+}
